@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+230
+'En este programa vamos a estar en un mapa,vamos a calcula la distancia entre dos cuidades.Querido usuario usted va a ingresar la distancia de entre estas pero tomando en cuenta que 1 cm en el mapa equivale a 50 km en la realidad'
+4
+1
+39
+'ingrese la distancia que usted quiera'
+5
+1
+1
+a
+6
+2
+1
+b
+2
+50
+1
+c
+3
+a*b
+4
+1
+52
+'La distancia entre las dos cuidades es de ',c, 'cm'
+1

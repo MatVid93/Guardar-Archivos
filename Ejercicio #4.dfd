@@ -1,0 +1,26 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+162
+'Buenos Dias,tardes o noches en este programa vamos a ver como un articulo cuesta $80 y su precio se aumenta en
+un 25%, ¿cuál será el nuevo precio del articulo?'
+6
+2
+1
+a
+9
+80*25/100
+1
+b
+4
+80+a
+4
+1
+24
+'Su nuevo precio es ' ,b
+1

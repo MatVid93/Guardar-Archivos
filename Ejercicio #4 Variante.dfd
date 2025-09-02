@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+193
+'Buenos Dias,tardes o noches en este programa vamos a ver el precio de un articulo el cual usted va a ingresa y de ahi el porcentaje de aumento que tiene el articulo que usted lo va a ingresar'
+4
+1
+32
+'ingrese el precio del articulo'
+5
+1
+1
+a
+4
+1
+56
+'Ingrese el porcentaje que tiene de aumento el articulo'
+5
+1
+1
+b
+6
+2
+1
+c
+9
+(a*b)/100
+1
+d
+3
+a+c
+4
+1
+63
+'El precio del objeto original es ' ,a, ' su aumento es de ' ,d
+1
